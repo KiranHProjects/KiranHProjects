@@ -1,0 +1,10 @@
+import java.util.Scanner;
+public project 2{
+public static void main (String []args) 
+{
+Scanner scan = new Scanner(System.in);
+int c = scan.nextInt();
+float f = (c × 9/5)+32;
+system.out.printlm(f);
+}
+}
