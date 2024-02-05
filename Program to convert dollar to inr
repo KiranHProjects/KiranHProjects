@@ -1,0 +1,11 @@
+import java.util.Scanner;
+public project 1{
+public static void main(String []args) 
+{
+Scanner scan = new Scanner(System.in);
+int dollar = scan.nextInt();
+float inr = dollar × 83.38f;
+
+system.out.println(inr);
+}
+}
